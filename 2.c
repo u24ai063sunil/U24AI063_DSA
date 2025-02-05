@@ -16,7 +16,7 @@ void print_singly_list(struct node *head){
     }
     printf("NULL");
 }
-int *insert_start(struct node *head,int data){
+struct node* insert_start(struct node *head,int data){
     struct node *new=(struct node*)malloc(sizeof(struct node));
     new->data=data;
     new->next=head;
