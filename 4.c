@@ -16,7 +16,7 @@ void print_singly_list(struct node *head){
     }
     printf("NULL");
 }
-int* copy(struct node *head,int *arr){
+struct node* copy(struct node *head,int *arr){
     struct node *temp=(struct node *)malloc(sizeof(struct node));
     temp=head;
     int i=0;
