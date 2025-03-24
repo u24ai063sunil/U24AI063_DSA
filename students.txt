@@ -1,0 +1,10 @@
+Alice, 101, CSE
+Bob, 102, ECE
+Charlie, 103, ME
+Alice, 104, IT
+David, 105, CSE
+Eve, 106, ECE
+Bob, 107, ME
+Charlie, 108, IT
+Frank, 109, CSE
+Grace, 110, ECE
